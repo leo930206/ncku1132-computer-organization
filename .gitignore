@@ -16,6 +16,8 @@ cmake-build-debug/
 .vscode/
 __pycache__/
 node_modules/
+.venv/
+venv/
 
 # Secrets
 .env
